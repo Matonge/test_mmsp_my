@@ -3,8 +3,9 @@
 using namespace std;
 
 int main() {
-	//это ветка релиза
+	//ГЅГІГ® ГўГҐГІГЄГ  Г°ГҐГ«ГЁГ§Г 
 	cout << "Zdarova priyatel'" << endl;
+
 	cout << "I don't have promblems" << endl;
 
 	return 0;
